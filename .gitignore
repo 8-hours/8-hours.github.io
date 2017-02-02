@@ -50,3 +50,5 @@ fabric.properties
 .idea/misc.xml
 .idea/modules.xml
 .idea/typescript-compiler.xml
+
+*.iml
